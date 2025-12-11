@@ -19,9 +19,10 @@ The focus is on frontend development, API usage, and responsive design.
 - Interactive search and filter functionality
 
 ## Live Demo
-Check out the live website here: [Hunting Phone Website](https://mehedi-hasan1102.github.io/hunting-phone/)
+Check out the live website here: [Hunting Phone Website](https://mehedi-hasan1102.github.io/Hunting-Phone/)
 
 ## How to Use
 1. Clone the repository:
    ```bash
    git clone https://github.com/mehedi-hasan1102/hunting-phone.git
+
